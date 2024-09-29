@@ -1,0 +1,52 @@
+/* Write your CSS here */
+.bg-contaer {
+  background-image: linear-gradient(to right, #f9d423, #e2a139);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.second {
+  background-color: #ffffff;
+  padding: 40px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+button {
+  background-color: #f9d423;
+  color: #e2a139;
+  border-color: #f9d423;
+  border-width: 0px;
+  height: 30px;
+  border-radius: 5px;
+}
+.fourth {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.para {
+  margin-right: 35px;
+  margin-left: 15px;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+h1 {
+  color: #e2a139;
+}
+p {
+  color: black;
+}
+img {
+  height: 200px;
+}
+.para1{
+  font-weight: bold;
+}
